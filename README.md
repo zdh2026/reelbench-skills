@@ -1,15 +1,32 @@
-[![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-ece9e7?style=for-the-badge&labelColor=ece9e7&color=8a8785)](README.zh.md)
-[![English](https://img.shields.io/badge/English-a02128?style=for-the-badge)](README.md)
-[![Telegram](https://img.shields.io/badge/Telegram-%40ahao__dev-8a8785?style=for-the-badge&labelColor=a02128&logo=telegram&logoColor=ece9e7)](https://t.me/ahao_dev)
-[![Follow on X](https://img.shields.io/badge/Follow-%40eternityspring-8a8785?style=for-the-badge&labelColor=a02128&logo=x&logoColor=ece9e7)](https://x.com/eternityspring)
-
-🎬 **[AI Video Workspace](https://studio.reelbenchai.com)**
-
-[![ReelBench AI Video Workspace](assets/reelbench-first-screen-en.png)](https://studio.reelbenchai.com)
+<div align="center">
 
 # reelbench-skills
 
-Claude Code / Codex skills for working with video.
+**Claude Code / Codex skills for working with video.**
+
+English | [中文](README.zh.md) | [Telegram @ahao_dev](https://t.me/ahao_dev) | [X @eternityspring](https://x.com/eternityspring)
+
+**[Skills](#skills) · [Install](#install) · [Example](#example) · [What it looks like](#what-it-looks-like)**
+
+</div>
+
+## ❤️ Sponsor
+
+> [Want to appear here?](mailto:eternityspring@gmail.com)
+
+<details open>
+<summary>Click to collapse</summary>
+
+<table>
+<tr>
+<td width="180"><a href="https://studio.reelbenchai.com"><img src="assets/reelbench-first-screen-en.png" alt="Reelbench Studio" width="150"></a></td>
+<td><a href="https://studio.reelbenchai.com">Reelbench Studio</a> is a paid AI video workspace built by the author of these skills, delivered as source code that runs offline. Local Codex handles understanding, breakdown and orchestration, a self-hosted ComfyUI generates the images and video, and your assets and projects stay on your own machine.</td>
+</tr>
+</table>
+
+</details>
+
+## Skills
 
 | skill | what it does |
 | --- | --- |

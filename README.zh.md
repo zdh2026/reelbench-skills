@@ -1,15 +1,32 @@
-[![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-a02128?style=for-the-badge)](README.zh.md)
-[![English](https://img.shields.io/badge/English-ece9e7?style=for-the-badge&labelColor=ece9e7&color=8a8785)](README.md)
-[![微信交流群](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-AI%20%E8%A7%86%E9%A2%91%E4%BA%A4%E6%B5%81%E7%BE%A4-8a8785?style=for-the-badge&labelColor=a02128)](#ai-视频交流社群)
-[![关注作者 X](https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85-%40eternityspring-8a8785?style=for-the-badge&labelColor=a02128&logo=x&logoColor=ece9e7)](https://x.com/eternityspring)
-
-🎬 **[AI 视频工作台](https://studio.reelbenchai.com)**
-
-[![ReelBench AI 视频工作台](assets/reelbench-first-screen.png)](https://studio.reelbenchai.com)
+<div align="center">
 
 # reelbench-skills
 
-视频侧的 Claude Code / Codex skill。
+**视频侧的 Claude Code / Codex skill。**
+
+[English](README.md) | 中文 | [微信交流群](#ai-视频交流社群) | [X @eternityspring](https://x.com/eternityspring)
+
+**[Skill 一览](#skill-一览) · [安装](#安装) · [示例](#示例) · [成片长这样](#成片长这样)**
+
+</div>
+
+## ❤️ 赞助商
+
+> [想出现在这里？](mailto:eternityspring@gmail.com)
+
+<details open>
+<summary>点击折叠</summary>
+
+<table>
+<tr>
+<td width="180"><a href="https://studio.reelbenchai.com"><img src="assets/reelbench-first-screen.png" alt="Reelbench Studio" width="150"></a></td>
+<td><a href="https://studio.reelbenchai.com">Reelbench Studio</a> 是本 skill 项目作者开发的付费 AI 影视工作台，交付的是能离线运行的源码。本地 Codex 负责理解、拆解与编排，自部署 ComfyUI 负责图像与视频生成，素材和项目都留在你自己的设备里。</td>
+</tr>
+</table>
+
+</details>
+
+## Skill 一览
 
 | skill | 干什么 |
 | --- | --- |
